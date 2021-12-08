@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AJAX</title>
 </head>
-<body>
+<body bgcolor="4f4f4f">
     <button id="przycisk">Ładuj gory.json</button>
-    <h1>USERS</h1>
+    <h1>Góry</h1>
     <div id="gory"></div>
     <script type="text/javascript">
         document.getElementById("przycisk").addEventListener("click",ladujuzytkownikow);
@@ -24,9 +24,9 @@
                         output += `
                             <ul>
                                 <li>ID: ${gory[i].id}</li>
-                                <li>Name: ${gory[i].name}</li>
-                                <li>Email: ${gory[i].title}</li>
-                                <img src="${gory[i].zdjecie}" width="70" height="70"/>
+                                <li>Nazwa: ${gory[i].name}</li>
+                                <li>Tytuł: ${gory[i].title}</li>
+                                <img src="${gory[i].zdjecie}" width="150" height="100"/>
                             </ul>    
                         `;
                     }

@@ -17,7 +17,11 @@
             xhr.open('GET','gory.json',true);
 
             xhr.onload = function(){
-
+                if(this.status == 200){
+                    var gory = JSON.parse(this.responseText);
+                    var output='';
+                    document.getElementById("gory").innerHTML = output;
+                }
             }
             xhr.send();
         }

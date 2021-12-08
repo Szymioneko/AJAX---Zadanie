@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Tatry",
+        "name":"Tatry",
+        "zdjecie": "https://www.zakopane.pl/assets/zakopane25/media/thumbnails/main_slider/assets/zakopane25/media/files/7935fa53-d740-4d68-9014-2b974c4a7066/9.jpg"
+    },
+    {
+        "id":2,
+        "title":"Bieszczady",
+        "name":"Bieszczady",
+        "zdjecie": "https://www.bus-inter.pl/wp-content/uploads/2020/09/bieszczady.jpg"
+    },
+    {
+        "id":3,
+        "title":"Karpaty",
+        "name":"Karpaty",
+        "zdjecie": "https://www.exploruj.pl/wp-content/uploads/2020/03/ferrata-most-419x280.jpg"
+    },
+    {
+        "id":4,
+        "title":"Sowie",
+        "name":"Sowie",
+        "zdjecie": "https://www.national-geographic.pl/media/cache/slider_big/uploads/media/default/0014/24/gory-sowie_7.jpeg"
+    },
+    {
+        "id":5,
+        "title":"Beskidy",
+        "name":"Beskidy",
+        "zdjecie": "https://podrozniczo.pl/wp-content/uploads/2016/11/Beskidy-widok-z-wiezy-widokowej-na-szyndzielni.jpg"
+    }
+]

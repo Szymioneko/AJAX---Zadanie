@@ -20,6 +20,16 @@
                 if(this.status == 200){
                     var gory = JSON.parse(this.responseText);
                     var output='';
+                    for(let i in gory){
+                        output += `
+                            <ul>
+                                <li>ID: ${gory[i].id}</li>
+                                <li>Name: ${gory[i].name}</li>
+                                <li>Email: ${gory[i].title}</li>
+                                <img src="${gory[i].zdjecie}" width="70" height="70"/>
+                            </ul>    
+                        `;
+                    }
                     document.getElementById("gory").innerHTML = output;
                 }
             }

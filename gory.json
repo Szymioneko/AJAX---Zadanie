@@ -18,9 +18,15 @@
         "zdjecie":"https://www.exploruj.pl/wp-content/uploads/2020/03/ferrata-most-419x280.jpg"
     },
     {
-        "id":3,
+        "id":4,
         "title":"Sowie",
         "name":"Sowie",
         "zdjecie":"https://michalkowepodroze.pl/wp-content/uploads/gory-sowie.jpg"
+    },
+    {
+        "id":5,
+        "title":"Beskidy",
+        "name":"Beskidy",
+        "zdjecie":"https://slaskie.travel/Media/Default/.MainStorage/StaticContent/zfheu0mn.hwv/Jaworzynka,%20Beskidy,%20fot.T.G%C4%99bu%C5%9B,%20www.slaskie.travel.jpg"
     }
 ]

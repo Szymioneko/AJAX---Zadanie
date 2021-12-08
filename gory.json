@@ -10,5 +10,11 @@
         "title":"Bieszczady",
         "name":"Bieszczady",
         "zdjecie":"https://ocdn.eu/pulscms-transforms/1/MJIk9kpTURBXy8wOThkODkyOGU1YmFiMzlmY2VhMDFiNmY5YWJiMDc3OS5qcGeTlQMAzK_NFfDNDFeTBc0DFM0BvJMJpjI1YjI5MQaBoTAB/.jpg"
+    },
+    {
+        "id":3,
+        "title":"Karpaty",
+        "name":"Karpaty",
+        "zdjecie":"https://www.exploruj.pl/wp-content/uploads/2020/03/ferrata-most-419x280.jpg"
     }
 ]
